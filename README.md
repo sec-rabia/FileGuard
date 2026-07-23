@@ -4,7 +4,6 @@
 
 FileGuard is a simple cybersecurity tool developed in Python to verify the integrity of files using the SHA-256 hashing algorithm. It generates a unique hash for a file, stores it, and later verifies whether the file has been modified by comparing hash values.
 
----
 
 ##  Features
 
@@ -15,7 +14,6 @@ FileGuard is a simple cybersecurity tool developed in Python to verify the integ
 - Simple command-line interface
 - Lightweight and easy to use
 
----
 
 ##  Technologies Used
 
@@ -23,7 +21,6 @@ FileGuard is a simple cybersecurity tool developed in Python to verify the integ
 - hashlib (Built-in Python Library)
 - File Handling
 
----
 
 ##  Project Files
 
@@ -33,7 +30,6 @@ FileGuard is a simple cybersecurity tool developed in Python to verify the integ
 - `test.txt` – Sample file used for testing.
 - `README.md` – Project documentation.
 
----
 
 ## How to Run
 
@@ -91,7 +87,6 @@ Checking file integrity...
 6. Compare both hash values.
 7. Display whether the file is safe or modified.
 
----
 
 ##  Example Output
 
